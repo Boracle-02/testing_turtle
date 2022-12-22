@@ -76,6 +76,6 @@ for _ in range(12):
 # hour var will be 1-12
 hour = int(time.strftime("%I"))
 
-turt.color("#6b7af2")
+turt.color("#6b7af9")
 
 window.mainloop()
